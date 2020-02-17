@@ -1,0 +1,62 @@
+Invoice 200896
+
+Page 1 of 1
+
+ 
+
+Remit To: Invoice
+
+200896 Date 30-Jan-2017
+
+PO Number FACILITIES-SCOTT
+
+ 
+
+ 
+
+Peppa, inc
+01234 26th Anevue One Order Date 25-Jan-2017
+Cartoonworld, CW 5555 Ship Date — 30-Jan-2017
+(092) 012-2345 Terms. Net 30
+(042) 012-2349 Due Date —1-Mar-2017
+Carrier Peppa
+Bill To: Ship To:
+
+ 
+
+ST. MEDICAL CITY
+ATTN: SCOTT BROWN
+0505 SOME LANE W
+
+ST. MEDICAL CITY
+TECH CENTER
+1 ST. MEDICAL CITY DRIVE
+
+ 
+
+ 
+
+ 
+
+ 
+
+INDUSTRY ID 55544 ST. HIGHWAY ID 55544
+Description item Code Ordered Shipped B/O Price Tax Amount
+ESD INITIAL DEEP SCRUB CLEANER 991-vPI04101-GL 1 1 0 145.50 Y $145. 50
+INITIAL DEEP SCRUB PAD, 20° 430-VPIGRA2O 1 1 0 32.55 ¥ $32.55
+ESD INITIAL SURFACE CLEANER 991-vP104201-QT 1 1 0 60.00 Y $60. 00
+INITIAL SURF. CLEANING PAD, 17" 430-VPINATL7 1 1 0 19.97 Y $19. 97
+ESD ONGOING CLEANER 991-vPI04001-GL 2 2 0 80.00 Y $160. 00
+ESD SPRAY BUFF 991-vP104301-QT 4 4 0 60.00 Y $240. 00
+DELI VERY CHARGE Wal VED 976w 1 1 0 0.00 N $0. 00
+AS CUSTOMER COURTESY
+A service charge of 1.5%/month (18%/yr) Merch Totat $658. 02
+will be charged on aif past due accounts Taxable Sales $658. 02
+
+7.625% Sales Tax $50. 17
+
+Salesman $0. 00
+Cust Acct Freight $0. 00
+Ppd Deposit $0. 00
+
+Total Due $708.19
