@@ -1,0 +1,103 @@
+New Car-Brand
+
+Where customers come first
+
+A.B. Motors (No.0) Pty Ltd trading as New Car-brand
+
+1-11 SomeHighway, Cloudcity CC 0200
+POBox 123 Darwism CC 0201
+
+P(00) 01234567 F(00) 0123458 Newparts@newcarbrand.com.cc
+
+newcarbrands.com.cc
+
+ABN: 11 000 111 222 ACN: 010 101 110
+
+Invoice To
+
+Some City Place
+PO Box 111222
+Nilecity NC 0123
+
+ 
+
+Fairy Land road
+C/- Down Port
+00 O'CORN NEIL SON
+
+ACC. 001100
+
+Dispatch To
+
+ 
+
+PARTS TAX INVOICE
+
+TOLL EXPRESS
+
+    
+
+P123456
+
+   
+ 
+
+Invoice No.
+
+1
+
+Page
+
+ 
+
+Printed 31/01/2017 08:44
+
+    
+  
+
+Customer 28643
+
+    
+ 
+
+Customer P.0. | ABCDEF
+
+  
+
+Sales Rep. 11
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+* REPRINT *
+
+ 
+
+Document Number ORACLE12
+Phone: 012345000 Cust: 0123/ 310NEIL
+Line | Bin | Part Description Qty Ord | B/O | Supplied Price Unit Ext Price
+1 ZZZ | 791010K010 FRAME SUB-ASSY NO.1 1 1 282.17 282.17 2217
+PARTS TOTAL $282.17
+GST $28.22
+TOTAL $310.39

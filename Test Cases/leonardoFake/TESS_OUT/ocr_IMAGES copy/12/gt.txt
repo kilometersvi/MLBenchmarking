@@ -1,0 +1,130 @@
+INVOICE
+
+000 Industrial Street IE
+Minecity, MC 01010
+
+Customer Number: 123456789 Page 1 of 1
+Account Type: Charge 10JUDE
+Ph: (010) 111000 Fax: (010) 111001 Invoice Number: 1003694182
+Email: customerhelp@newindustry.com.oo Invoice Date: 01/20/2017
+
+Route: 49 JAMES MAINS
+Service: Weekly - FR
+
+ 
+Deliver To: Bill To:
+INDUSTRIAL STRASSE INDUSTRIAL STRASSE * BLD 10 (old)
+NEWWEST TOWN ACCOUNTS PAYABLE
+DREAM CITY DC, 44 5050 SCARY LANE
+
+AP
+
+MONITOR CITY, MC 55
+
+Del Line Bank/ Emp Bill
+Qty Type Item Description Locker Name Emp # Inv Qty Total
+
+   
+   
+   
+   
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+
+Rent 9417WES Cvril-B4 Hi Neck
+Rent 9417WES Cvril-B4 Hi Neck
+Rent 9417WES Cvril-B4 Hi Neck
+Rent 9417WES Cvril-B4 Hi Neck
+Rent 9417WES Cvril-B4 Hi Neck
+Rent 9417WES Cvril-B4 Hi Neck
+Rent 9417WES Cvril-B4 Hi Neck
+Rent 9417WES Cvril-B4 Hi Neck 5Xl 44 9 3 5.76T
+Rent 9417WES Cvril-B4 Hi Neck 6Xl 47 12 4 7.67T
+Rent 9719WES B4-Snp Opnfc Hd-Wh 9719Wes L 500 19 10 7.63T
+Rent 9719WES B4-Snp Opnfc Hd-Wh 9719Wes XI 700 18 9 6.87T
+
+ 
+
+23 120 40
+26 121 40
+29 161 60
+32 120 40
+35 90 30
+38 65 25
+41 12 4
+
+76.74T
+76.74T
+115.10T
+76.74T
+57.55T
+47.96T
+7.67T
+
+ 
+
+ 
+
+ 
+
+     
+S
+M
+L
+Xl
+2Xl
+3Xl
+4Xl
+
+     
+     
+     
+    
+
+  
+ 
+ 
+ 
+
+ 
+
+Subtotal 486.43
+Tax 35.39
+Total Due: US 521.82
+
+     
+ 
+ 
+
+ 
+
+Signature
+
+ 
+
+Initials
+
+[BLDG 2 CLEANROOM 40%100017/60%100016
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Please Remit Payment to: someone who is responsible and able to understand
+
+Thank you for your business!

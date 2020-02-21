@@ -1,0 +1,38 @@
+INVOICE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 1 of 2
+Date: 1/4/2017
+Invoice Number: 012345
+Federal ID# 0123456789 Customer ID: mM
+Terms: Due upon Receipt
+DISPERSED CAREFREE INS CO
+DISPERSED CAREFREE SPECIALITY
+P.O.BOX 1111
+DISNEYLAND, AA 01234-56789
+ATTN: MICKY MOUSE
+Description Period Amount
+Checking Services 12/1/2016 - 12/31/2016 $1,513.30
+Invoice Subtotal $1,513.30
+Sales Tax 0.00
+INVOICE TOTAL $1,513.30 USD
+Remittances: AAA, Inc. Inquiries: AAA, Inc.
+P.O.Box 12345 420 Deserttree Desert Park
+
+Jupiter, AA 0123-456 Desert-tree, AA 0123-456
+
+Tel: Phone (000) 000-0000
+
+FAX: Fax: (000) 000-0000
+
+Email: aaa@aaa.com
+SHOES1234

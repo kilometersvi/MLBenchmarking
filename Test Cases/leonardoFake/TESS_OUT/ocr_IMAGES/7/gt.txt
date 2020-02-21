@@ -1,0 +1,83 @@
+ABC Pty Ltd
+
+PO Box 111
+Zooplace ZPL 4567
+ACN: 000-111-222
+ABN: 00 012 111 222
+
+TEL: 01 3232 0500
+FAX: 01 3232 0501
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tax Invoice
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Health & Safety Metal Assets INVOICE NO INVOICE DATE
+Kilo Metal Assets Health & Safety
+Airport Avenue 12345 13/01/2017
+MOUNT IBA PLT 4848 TERMS DUE DATE
+30 Days Statement 03/03/2017
+Purchase Rate GST Total
+Order Name Date Description Item Qty [Ex GST] [Inc GST]
+Number $ $
+ZLJIUK Maynard, Gary 08/01/2017 Safety Advisor Level 3 Normal 36.00 59.1300 212.87 2,341.55
+Sub Total $2,128.68
+Plus GST $212.87
+Total Inc GST $2,341.55
+
+ 
+
+ 
+
+ 
+
+Payment by ABC Accepted to
+Bank: ABC Pty Ltd
+
+BSB: 121-001
+
+AIC: 55-333-2799
+
+This is a payment claim made under the Building and Construction Industry Payments Act 2004 (Qld)
